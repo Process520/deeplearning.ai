@@ -9,3 +9,8 @@
 
 >网易视频地址：https://163.lu/nPtn42
 
+>笔记地址：http://www.ai-start.com/dl2017
+
+>机器学习：https://www.jianshu.com/p/769fc6fe9b0a
+
+>深度学习信息图：https://mp.weixin.qq.com/s/n43lhGVXZzIPsqxssD9K-w
